@@ -1,6 +1,7 @@
 %% Single QWOT Film: 4.0||2.04|1.0
 % written in MATLAB R2014b
 % generates reflectance plot over spectrum on a germanium substrate
+% based on Jun Zhang's Thin Film Calculator, OptiScan
 
 clear all
 LambdaS = 2000; % start wavelength
