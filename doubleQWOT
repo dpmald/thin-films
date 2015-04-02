@@ -1,4 +1,5 @@
 %%Double QWOT Film on n=2.5-3.5 on germanium
+% written for MATLAB 2014b
 clear all
 LambdaS = 2000; % start wavelength
 LambdaE = 14000; % end wavelength
